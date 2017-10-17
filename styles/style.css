@@ -1,0 +1,33 @@
+body{
+    background-image:url(../images/bg.jpg);
+    color: white;
+    text-align:center;
+    padding: 15em;
+    font-family: Open sans;
+
+}
+.login{
+    background-color: #1F1E1D;
+    border: 1px solid #1C1B1A;
+    height: 2em;
+    color: white;
+    width: 200px;
+
+}
+div.box{
+
+    background-color: #0f0f0f;
+    border: 1px solid #1C1B1A;
+    width: 300px;
+
+}
+a.links{
+
+    text-decoration: none;
+    color: white;
+}
+a.links:hover{
+
+    text-decoration: none;
+    color: darkred;
+}
